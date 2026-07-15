@@ -1,0 +1,1 @@
+Um mini projeto cpara fins de estudo para gerenciar uma biblioteca de livros, feito para treinar JavaScript puro, manipulação de DOM sem frameworks, orientação a objetos com funções construtoras e prototype.
